@@ -81,8 +81,5 @@ I believe in understanding technology at every layer, from clean frontend experi
 <a href="https://instagram.com/shrut1j" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:2k24.cs1p2412103@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 </p>
 
