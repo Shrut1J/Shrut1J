@@ -54,11 +54,11 @@ Deep learning model to detect AI-generated deepfake audio vs real human speech.
 Skin condition detection via face scanner + trained ML model, with live dermatologist chat.
 `Python` `Machine Learning` `MERN Stack`
 
-**GreenLedge — Carbon Credits Trading Platform**
+**GreenLedge — Carbon Credits Trading Platform (TEAM)**
 Blockchain-based carbon credits trading platform using tokenisation for secure, transparent transactions.
 `Blockchain` `Solidity/Web3` `MERN Stack`
 
-**SmartFarmer — Modern Platform for Farmers**
+**SmartFarmer — Modern Platform for Farmers (TEAM)**
 Platform providing seed selection resources, plant disease detection, and real-time weather forecasting with live expert chat.
 `MERN Stack` `ML/AI APIs` `Weather API`
 
