@@ -58,7 +58,7 @@ Skin condition detection via face scanner + trained ML model, with live dermatol
 Blockchain-based carbon credits trading platform using tokenisation for secure, transparent transactions.
 `Blockchain` `Solidity/Web3` `MERN Stack`
 
-**FarmTech — Modern Platform for Farmers (SIH)**
+**FarmTech — Modern Platform for Farmers (SIH, TEAM)**
 Platform providing seed selection resources, plant disease detection, and real-time weather forecasting with live expert chat.
 `MERN Stack` `ML/AI APIs` `Weather API`
 
