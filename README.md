@@ -22,12 +22,12 @@ I enjoy building products that combine clean user experiences with solid backend
 
 ---
 
-###  Achievements
+### Achievements
 
 | Achievement | Result |
 |---|---|
-|  ProTech 2024 Hackathon | Winner |
-|  TechExpo 2025 Hackathon | Winner |
+| ProTech 2024 Hackathon | Winner |
+| TechExpo 2025 Hackathon | Winner |
 
 **B.Tech in Computer Science Engineering**
 Pranveer Singh Institute of Technology — CGPA: 9.09
@@ -58,7 +58,7 @@ Skin condition detection via face scanner + trained ML model, with live dermatol
 Blockchain-based carbon credits trading platform using tokenisation for secure, transparent transactions.
 `Blockchain` `Solidity/Web3` `MERN Stack`
 
-**FarmTech — Modern Platform for Farmers (SIH)**
+**[FarmTech](https://github.com/Shrut1J/FarmTech) — Modern Platform for Farmers (SIH)**
 Platform providing seed selection resources, plant disease detection, and real-time weather forecasting with live expert chat.
 `MERN Stack` `ML/AI APIs` `Weather API`
 
@@ -82,4 +82,3 @@ I believe in understanding technology at every layer, from clean frontend experi
 <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
-
