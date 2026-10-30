@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shruti Jayaswal</h1>
-<h3 align="center">Computer Science - AI/ML - Data Analysis</h3>
+<h3 align="center">Computer Science - AI/ML - Data Analytics</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrut1J&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
@@ -10,12 +10,11 @@
 ### About Me
 
 Turning ideas into code — CS student passionate about AI & building real-world solutions
-
 My interests span across multiple domains including:
 
 - Full Stack Development (MERN Stack)
 - Artificial Intelligence & Machine Learning
-- Cybersecurity Fundamentals
+- Data Analytics
 - Competitive Programming
 
 I enjoy building products that combine clean user experiences with solid backend logic and real-world impact.
@@ -26,6 +25,8 @@ I enjoy building products that combine clean user experiences with solid backend
 
 | Achievement | Result |
 |---|---|
+| WhyCode4u 2026 (IIT Guwahati) | TOP 15 |
+| BuildWithBharat2.0 (NIT Delhi) | Finalist|
 | ProTech 2024 Hackathon | Winner |
 | TechExpo 2025 Hackathon | Winner |
 
@@ -37,9 +38,10 @@ Pranveer Singh Institute of Technology — CGPA: 9.09
 
 ### Skills
 
-**Languages:** Python, Java, C++, JavaScript, Go
+**Languages:** C++ , Java , Python ,GO
+**AI/ML:** Model Training
+**Deep Learning:** Audio Preprocessing
 **Web Development:** MERN Stack (MongoDB, Express, React, Node.js)
-**AI/ML:** Machine Learning (Model Training)
 **Other:** Blockchain Basics, Cybersecurity Fundamentals, DBMS, Git
 
 ---
