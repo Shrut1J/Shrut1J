@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shruti Jayaswal</h1>
-<h3 align="center">Computer Science Engineer • AI/ML Enthusiast • Cybersecurity Explorer</h3>
+<h3 align="center">Computer Science - AI/ML - Data Analysis</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shrut1J&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
